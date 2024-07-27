@@ -1,6 +1,7 @@
-# Portfólio 
+# Portfólio (em desenvolvimento)
 
 # Olá, Bem vindo ao meu projeto de portfólio.
+  Desenvolvido através da formação inicial em Front-end no curso de HTML e CSS da Alura.
 
 <img width="960" alt="Captura de tela 2024-07-27 154743" src="https://github.com/user-attachments/assets/ffe3db99-57c6-4779-89d8-0ef5319e49b3">
 
